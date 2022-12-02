@@ -7,5 +7,5 @@ DeltaVerse.chain is being explored as an interoperable addition to the expanding
 
 details to follow
 
-<a href="https://deltav.exchange">DeltaV THRUST</a>
+<a href="https://thrust.vip">DeltaV THRUST</a>
 
